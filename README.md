@@ -6,6 +6,10 @@ Em desenvolvimento
 ## Para acessar os dados ou o arquivo físico do dashboard baixe a pasta BI_for_VISAT
 Para abrir o dashboard será necessário fazer a instalçao do power bi na sua máquina, tutorial recomendado: https://www.hashtagtreinamentos.com/como-instalar-o-power-bi
 
+## Driagrama do pipeline
+Fluxo de extração, tratamento, transformação e disponibilização dos dados:
+https://drive.google.com/file/d/1NqhP4FXB5nWeu-8aKE350BhMjD2IYgG7/view?usp=sharing
+
 ## Para executar os códigos e atualizar os dados siga as orientações abaixo:
 * Baixe o arquivo Pipeline_ACGR_SINAN.ipynb que está na pasta BI_for_VISAT e adicione no seu drive;
 * Selecione a opção "abrir como Google Colaboratory";
@@ -19,6 +23,3 @@ Para abrir o dashboard será necessário fazer a instalçao do power bi na sua m
 * Substituia o arquivo na pasta BI_for_VISAT da sua máquina;
 * Instale o power bi;
 * Abre o dashboard e clique em atualizar dados.
-
-## Driagrama do pipeline
-![Fluxo de extração, tratamento, transformação e disponibilização dos dados](https://drive.google.com/file/d/1NqhP4FXB5nWeu-8aKE350BhMjD2IYgG7/view?usp=sharing)
