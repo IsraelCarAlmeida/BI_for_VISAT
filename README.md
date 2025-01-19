@@ -1,6 +1,7 @@
 # BI_for_VISAT
 
-## Link para o dashboard online (em desenvolvimento)
+## Link para o dashboard online
+Em desenvolvimento
 
 ## Para acessar os dados ou o arquivo físico do dashboard baixe a pasta BI_for_VISAT
 Para abrir o dashboard será necessário fazer a instalçao do power bi na sua máquina, tutorial recomendado: https://www.hashtagtreinamentos.com/como-instalar-o-power-bi
@@ -16,6 +17,7 @@ Para abrir o dashboard será necessário fazer a instalçao do power bi na sua m
 * Execute a etapa "Transformações finais";
 * Após a finalização do fluxo, baixe o arquivo que está na gold e renomeie para "ACGR_2007_2023_ouro.parquet";
 * Substituia o arquivo na pasta BI_for_VISAT da sua máquina;
+* Instale o power bi;
 * Abre o dashboard e clique em atualizar dados.
 
 ## Driagrama do pipeline
