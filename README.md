@@ -11,7 +11,7 @@ Fluxo de extração, tratamento, transformação e disponibilização dos dados:
 https://drive.google.com/file/d/1NqhP4FXB5nWeu-8aKE350BhMjD2IYgG7/view?usp=sharing
 
 ## Para executar os códigos e atualizar os dados siga as orientações abaixo:
-* Baixe o arquivo Pipeline_ACGR_SINAN.ipynb que está na pasta BI_for_VISAT e adicione no seu drive;
+* Baixe a pasta BI_for_VISAT e adicione o arquivo Pipeline_ACGR_SINAN.ipynb no seu drive;
 * Selecione a opção "abrir como Google Colaboratory";
 * Acessando o arquivo execute a primeira etapa "Instação da biblioteca pysus";
 * No Google Colaboratory clique no simbolo da pasta a esquerda da tela;
