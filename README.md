@@ -3,7 +3,7 @@
 ## Link para o dashboard online
 Em desenvolvimento
 
-## Para acessar os arquivos do projeto siga as orientações abaixo:
+## Para acessar os arquivos do projeto:
 * Criar a pasta BI_for_VISAT no disco local C da máquina;
 * Acessar e baixar o arquivo do dashboard: https://drive.google.com/file/d/1JA2tSwVa7LKQnvasuLVBi1hLYzXsPgnj/view?usp=sharing
 * Acessar e baixar o arquivo com os dados das notificações: https://drive.google.com/file/d/1ois322Or5O_B-eGl6uiEFZJw-dZF1rRj/view?usp=sharing
@@ -15,7 +15,7 @@ Em desenvolvimento
 Fluxo de extração, tratamento, transformação e disponibilização dos dados:
 https://drive.google.com/file/d/1NqhP4FXB5nWeu-8aKE350BhMjD2IYgG7/view?usp=sharing
 
-## Para executar os códigos e atualizar os dados siga as orientações abaixo:
+## Para executar os códigos e atualizar os dados:
 * Adicionar o arquivo Pipeline_ACGR_SINAN.ipynb no seu drive;
 * Selecionar a opção "abrir com Google Colaboratory";
 * Acessar o arquivo e executar a primeira etapa "Instalação da biblioteca pysus";
