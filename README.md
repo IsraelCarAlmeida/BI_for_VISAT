@@ -1,7 +1,7 @@
 # BI_for_VISAT
 
 ## Link para o dashboard online
-[https://app.powerbi.com/view?r=eyJrIjoiYTc5ZGY0NmEtMjUyMi00MzhlLWI3MDAtYjNjZWY3Y2IzZWYwIiwidCI6IjZjOTNlZTgyLWM2NTUtNGVkMi1hNDAyLTllMjRmOGU5ZTcxOCJ9](https://abrir.link/ILLTT)
+https://abrir.link/ILLTT
 
 ## Para acessar os arquivos do projeto:
 * Criar a pasta BI_for_VISAT no disco local C da máquina;
