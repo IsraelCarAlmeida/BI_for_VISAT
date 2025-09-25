@@ -5,8 +5,8 @@ https://abrir.link/ILLTT
 
 ## Para acessar os arquivos do projeto:
 * Criar a pasta BI_for_VISAT no disco local C da máquina;
-* Acessar e baixar o arquivo do dashboard: https://drive.google.com/file/d/1JA2tSwVa7LKQnvasuLVBi1hLYzXsPgnj/view?usp=sharing
-* Acessar e baixar o arquivo com os dados das notificações: https://drive.google.com/file/d/1ois322Or5O_B-eGl6uiEFZJw-dZF1rRj/view?usp=sharing
+* Acessar e baixar o arquivo do dashboard: https://drive.google.com/file/d/1H-CKYJxLxXC3UfqC-aZNa8PYGVOS49fr/view?usp=sharing
+* Acessar e baixar o arquivo com os dados das notificações: https://drive.google.com/file/d/1pFF9Sku5_m7wJ-ZTYEf3OSHjVN_QYcKW/view?usp=sharing
 * Adicionar os dois arquivos na pasta BI_for_VISAT;
 * Para abrir o dashboard será necessário fazer a instalaçao do power bi na sua máquina, tutorial recomendado: https://www.hashtagtreinamentos.com/como-instalar-o-power-bi
 * Abrir o dashboard e clicar em atualizar os dados.
